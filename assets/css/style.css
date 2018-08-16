@@ -1,0 +1,146 @@
+/* For Index Page. Some content in Contact and Portfolio, specifically theme of layout */
+
+body {
+    background-image: url("../images/night.jpg");
+    background-size: cover;
+    margin: 0;
+    font-family: 'Courgette', cursive;
+    font-weight: 200px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    position: relative;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.container2 {
+    top: 20px;
+    bottom: 50px;
+    width: 960px;
+    height: 800px;
+    position: relative;
+    overflow: auto;
+    word-wrap: break-word;
+    left: 25%;
+    right: 25%;
+    padding: 50px;
+}
+
+p {
+    float: left;
+    font-size: 33px;
+    color: white;
+}
+
+nav {
+    float: right;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 30px;
+}
+
+li {
+    float: left;
+    margin-left: 50px;
+    padding: 30px;
+    
+}
+
+a{
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+img {
+    margin: 80px;
+    float: right;
+
+}
+
+.text {
+    top: 15px;
+    margin: 50px;
+    right: 100px;
+    color: white;
+    font-size: 18px;
+}
+
+h1 {
+    color: white;
+}
+
+#message {
+    width: 300px;
+    height: 200px;
+}
+
+#submit {
+    top: 10px;
+}
+
+#box1 {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+#box2 {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+#box3 {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+#box4 {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+#box5 {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+#box6 {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
